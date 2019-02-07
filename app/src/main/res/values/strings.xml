@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyStocks2</string>
+    <string name="string_refresh">Refresh</string>
+    <string name="string_settings">Settings</string>
+    <string name="connection_error">Connection Error</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_stocklist_title">Stocklist</string>
+    <string name="pref_stocklist_key">Stocklist</string>
+    <string name="pref_stocklist_default">BMW.DE,DAI.DE,EOAN.DE</string>
+    <string name="pref_checkbox1">PrefCheckbox1</string>
+
+</resources>
